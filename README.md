@@ -10,4 +10,5 @@ Here are the instructions:
  1. Install GoogleMapsInternational from the link above.
  1. Replace `GoogleMapsInternational.component` with the file in this repository.
  1. Find and download the Static Resource called GoogleMapsInternational	 within Salesforce.  Open it up, replace `googleMapsInternational.js` with the file in this repository, and reupload it.
+ 1. In Salesforce, go to Setup > Create > Custom Labels.  Find the label named `GMI_googleMapURL` and change its value to `https://maps.google.com`.
  1. That's it!
